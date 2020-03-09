@@ -630,6 +630,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable frigologo
 drawable gradient_background
+drawable gradient_backgroundhomescreen
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable notification_action_background
