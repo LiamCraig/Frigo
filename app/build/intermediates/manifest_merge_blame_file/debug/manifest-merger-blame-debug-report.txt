@@ -6,43 +6,43 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="15"
-8-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml
+8-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml
+9-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:5:5-20:19
+11-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:5:5-20:19
 12        android:allowBackup="true"
-12-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:6:9-35
+12-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.0.1] C:\Users\x18467362\.gradle\caches\transforms-2\files-2.1\8f8ab13dc8f4e84e14a8bb3d9ac92bc4\core-1.0.1\AndroidManifest.xml:22:18-86
+13-->[androidx.core:core:1.0.1] C:\Users\x18502983\.gradle\caches\transforms-2\files-2.1\8f8ab13dc8f4e84e14a8bb3d9ac92bc4\core-1.0.1\AndroidManifest.xml:22:18-86
 14        android:debuggable="true"
 15        android:icon="@mipmap/ic_launcher"
-15-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:7:9-43
+15-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:7:9-43
 16        android:label="@string/app_name"
-16-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:8:9-41
+16-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:8:9-41
 17        android:roundIcon="@mipmap/ic_launcher_round"
-17-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:9:9-54
+17-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
-18-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:10:9-35
+18-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:10:9-35
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
-20-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:11:9-40
+20-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:11:9-40
 21        <activity android:name="com.example.myfrigo.HomeActivity" />
-21-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:12:9-59
-21-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:12:19-47
+21-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:12:9-59
+21-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:12:19-47
 22        <activity android:name="com.example.myfrigo.MainActivity" >
-22-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:13:9-19:20
-22-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:13:19-47
+22-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:13:9-19:20
+22-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:13:19-47
 23            <intent-filter>
-23-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:14:13-18:29
+23-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:14:13-18:29
 24                <action android:name="android.intent.action.MAIN" />
-24-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:15:17-69
-24-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:15:25-66
+24-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:15:17-69
+24-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:15:25-66
 25
 26                <category android:name="android.intent.category.LAUNCHER" />
-26-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:17:17-77
-26-->H:\A\Year 2\SEM 2\ITP\PROJECT\project-frigo\app\src\main\AndroidManifest.xml:17:27-74
+26-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:17:17-77
+26-->H:\Year 2\IDTP\Frigo\project-frigo\app\src\main\AndroidManifest.xml:17:27-74
 27            </intent-filter>
 28        </activity>
 29    </application>
