@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">MyFrigo</string>
+    <string name="name">Name</string>
+    <string name="Username">username</string>
+    <string name="Password">password</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Not registered</string>
+    <string name="register">REGISTER</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already Registered</string>
+    <string name="logon">Login</string>
 </resources>

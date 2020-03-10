@@ -631,8 +631,10 @@ drawable abc_vector_test
 drawable frigologo
 drawable gradient_background
 drawable gradient_backgroundhomescreen
+drawable ic_account_circle_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_lock_outline_black_24dp
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -682,6 +684,8 @@ id beginning
 id blocking
 id bottom
 id buttonPanel
+id button_login
+id button_register
 id center
 id center_horizontal
 id center_vertical
@@ -701,6 +705,9 @@ id dimensions
 id direct
 id disableHome
 id edit_query
+id edittext_cnf_password
+id edittext_password
+id edittext_username
 id end
 id expand_activities_button
 id expanded_menu
@@ -784,6 +791,8 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textView
+id textview_login
+id textview_register
 id time
 id title
 id titleDividerNoCustom
@@ -831,6 +840,7 @@ layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_home
 layout activity_main
+layout activity_register
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -843,6 +853,8 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+string Password
+string Username
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -882,7 +894,14 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string already_registered
 string app_name
+string confirm_password
+string login
+string logon
+string name
+string not_registered
+string register
 string search_menu_title
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
