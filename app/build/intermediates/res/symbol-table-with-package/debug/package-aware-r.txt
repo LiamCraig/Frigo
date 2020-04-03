@@ -685,7 +685,6 @@ id blocking
 id bottom
 id buttonPanel
 id button_login
-id button_register
 id center
 id center_horizontal
 id center_vertical
@@ -705,7 +704,6 @@ id dimensions
 id direct
 id disableHome
 id edit_query
-id edittext_cnf_password
 id edittext_password
 id edittext_username
 id end
@@ -791,14 +789,14 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textView
-id textview_login
-id textview_register
+id textView2
 id time
 id title
 id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id tvInfo
 id uniform
 id up
 id useLogo
@@ -838,9 +836,9 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_content
 layout activity_home
 layout activity_main
-layout activity_register
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big

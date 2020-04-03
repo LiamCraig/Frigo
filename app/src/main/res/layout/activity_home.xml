@@ -11,9 +11,9 @@
 
     <ImageView
         android:layout_width="wrap_content"
-        android:layout_height="150dp"
-        app:srcCompat="@drawable/frigologo"
-        android:layout_marginTop="50dp"/>
+        android:layout_height="270dp"
+        android:layout_marginTop="50dp"
+        app:srcCompat="@drawable/frigologo" />
 
     <EditText
         android:id="@+id/edittext_username"
@@ -21,7 +21,8 @@
         android:layout_height="40dp"
         android:layout_marginTop="40dp"
         android:drawableLeft="@drawable/ic_account_circle_black_24dp"
-        android:hint="@string/Username"/>
+        android:hint="@string/Username"
+        android:inputType="textPersonName" />
 
     <EditText
         android:id="@+id/edittext_password"
@@ -29,7 +30,8 @@
         android:layout_height="40dp"
         android:layout_marginTop="20dp"
         android:drawableLeft="@drawable/ic_lock_outline_black_24dp"
-        android:hint="@string/Password"/>
+        android:hint="@string/Password"
+        android:inputType="textPassword" />
 
     <Button
         android:id="@+id/button_login"
@@ -44,17 +46,11 @@
         android:orientation="horizontal"
         android:layout_marginTop="10dp"/>
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="35dp"
-            android:text="@string/not_registered"/>
-
-         <TextView
-             android:id="@+id/textview_register"
-           android:layout_width="wrap_content"
-          android:layout_height="35dp"
-             android:textStyle="bold"
-          android:text="@string/register"/>
+    <TextView
+        android:id="@+id/tvInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:text="No of attempts remaining: " />
 
 
 </LinearLayout>

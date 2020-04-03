@@ -18,7 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.myfrigo.RegisterActivity" />
+        <activity android:name="com.example.myfrigo.ContentActivity" />
+        <activity android:name="com.example.myfrigo.contActivity" />
         <activity android:name="com.example.myfrigo.HomeActivity" />
         <activity android:name="com.example.myfrigo.MainActivity" >
             <intent-filter>
