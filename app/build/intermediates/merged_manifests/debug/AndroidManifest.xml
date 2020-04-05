@@ -18,7 +18,10 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.myfrigo.ContentActivity" />
+        <activity
+            android:name="com.example.myfrigo.ContentsActivity"
+            android:label="@string/title_activity_contents"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.example.myfrigo.contActivity" />
         <activity android:name="com.example.myfrigo.HomeActivity" />
         <activity android:name="com.example.myfrigo.MainActivity" >
@@ -28,6 +31,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.example.myfrigo.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

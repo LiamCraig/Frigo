@@ -38,7 +38,7 @@ public class HomeActivity extends AppCompatActivity {
             }
             private void validate(String usermTextUsername, String usermTextPassword){
         if((usermTextUsername.equals("admin")) && (usermTextPassword.equals("123"))){
-            Intent intent = new Intent(HomeActivity.this, ContentActivity.class);
+            Intent intent = new Intent(HomeActivity.this, ContentsActivity.class);
             startActivity(intent);
         }else{
             counter--;

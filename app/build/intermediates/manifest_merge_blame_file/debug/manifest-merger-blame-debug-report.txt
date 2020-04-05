@@ -11,7 +11,7 @@
 9-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:5:5-22:19
+11-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:5:5-25:19
 12        android:allowBackup="true"
 12-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -28,29 +28,45 @@
 19        android:testOnly="true"
 20        android:theme="@style/AppTheme" >
 20-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:11:9-40
-21        <activity android:name="com.example.myfrigo.ContentActivity" />
-21-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:12:9-62
-21-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:12:19-50
-22        <activity android:name="com.example.myfrigo.contActivity" />
-22-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:13:9-50
-22-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:13:19-47
-23        <activity android:name="com.example.myfrigo.HomeActivity" />
-23-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:14:9-50
-23-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:14:19-47
-24        <activity android:name="com.example.myfrigo.MainActivity" >
-24-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:15:9-21:20
-24-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:15:19-47
-25            <intent-filter>
-25-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:16:13-20:29
-26                <action android:name="android.intent.action.MAIN" />
-26-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:17:17-69
-26-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:17:25-66
-27
-28                <category android:name="android.intent.category.LAUNCHER" />
-28-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:19:17-77
-28-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:19:27-74
-29            </intent-filter>
-30        </activity>
-31    </application>
-32
-33</manifest>
+21        <activity
+21-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:12:9-15:68
+22            android:name="com.example.myfrigo.ContentsActivity"
+22-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:13:13-45
+23            android:label="@string/title_activity_contents"
+23-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:14:13-60
+24            android:theme="@style/AppTheme.NoActionBar" />
+24-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:15:13-56
+25        <activity android:name="com.example.myfrigo.contActivity" />
+25-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:16:9-50
+25-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:16:19-47
+26        <activity android:name="com.example.myfrigo.HomeActivity" />
+26-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:17:9-50
+26-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:17:19-47
+27        <activity android:name="com.example.myfrigo.MainActivity" >
+27-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:18:9-24:20
+27-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:18:19-47
+28            <intent-filter>
+28-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:19:13-23:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:20:17-69
+29-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:20:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:22:17-77
+31-->C:\Users\alanm\Desktop\ITP APP\project-frigo\app\src\main\AndroidManifest.xml:22:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <provider
+35-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+36            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+36-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+37            android:authorities="com.example.myfrigo.lifecycle-process"
+37-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+38            android:exported="false"
+38-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+39            android:multiprocess="true" />
+39-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\6fbf654d3db04d7d9e48eb73ccf59f45\lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+40    </application>
+41
+42</manifest>
