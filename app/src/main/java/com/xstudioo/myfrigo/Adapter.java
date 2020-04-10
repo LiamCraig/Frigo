@@ -1,0 +1,95 @@
+package com.xstudioo.myfrigo;
+
+import android.content.Context;
+import android.content.Intent;
+
+import androidx.annotation.NonNull;
+import androidx.recyclerview.widget.RecyclerView;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
+
+    private LayoutInflater inflater;
+    private String[] sTitles;
+    private String[] sContent;
+    private int[] sImages;
+
+    Adapter(Context context, String[] titles,String[] contents, int[] images){
+        this.inflater = LayoutInflater.from(context);
+        this.sTitles = titles;
+        this.sContent = contents;
+        this.sImages = images;
+    }
+
+
+    @NonNull
+    @Override
+    public ViewHolder onCreateViewHolder(@NonNull ViewGroup viewGroup, int i) {
+        View view = inflater.inflate(R.layout.custom_view,viewGroup,false);
+        return new ViewHolder(view);
+    }
+
+    @Override
+    public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
+        holder.storyTitle.setText(sTitles[position]);
+        holder.storyContent.setText(sContent[position]);
+        holder.myImage.setImageResource(sImages[position]);
+
+        //String title = sTitles[i];
+       // String content = sContent[i];
+       // int images = sImages[i];
+       // viewHolder.storyTitle.setText(title);
+        //viewHolder.storyContent.setText(content);
+        //viewHolder.number.setText(String.valueOf(title.charAt(0)));
+        //GradientDrawable shape = new GradientDrawable();
+        //shape.setShape(GradientDrawable.OVAL);
+        // generate random color
+
+       // Random r = new Random();
+       //> int red = r.nextInt(255 - 0 + i);
+                //>int green = r.nextInt(255 - i + 1);
+        //int blue = r.nextInt(255 - 0 + (i+1));
+        //shape.setColor(Color.rgb(red,green,blue));
+        //viewHolder.circle.setBackground(shape);
+    }
+
+    @Override
+    public int getItemCount() {
+        return sTitles.length;
+    }
+
+    public class ViewHolder extends RecyclerView.ViewHolder{
+
+        TextView storyTitle,storyContent; //number;
+        ImageView myImage;
+        //CardView circle;
+
+        public ViewHolder(@NonNull View itemView) {
+            super(itemView);
+            // implement onClick
+            itemView.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    Intent i = new Intent(v.getContext(),Details.class);
+                    // send story title and contents through recyclerview to detail activity
+                    i.putExtra("titleOfStory",sTitles[getAdapterPosition()]);
+                    i.putExtra("contentOfRecipe",sContent[getAdapterPosition()]);
+                    v.getContext().startActivity(i);
+                }
+            });
+            storyTitle = itemView.findViewById(R.id.recipeTitle);
+            storyContent = itemView.findViewById(R.id.descriptionContent);
+           // number = itemView.findViewById(R.id.number);
+            myImage = itemView.findViewById(R.id.myImageView);
+            //circle = itemView.findViewById(R.id.circle);
+
+
+        }
+    }
+
+}
+

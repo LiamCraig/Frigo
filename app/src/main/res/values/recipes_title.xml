@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recipes_title">
+        <item>Chicken</item>
+        <item>Chinese</item>
+        <item>Fish</item>
+        <item>Pasta</item>
+        <item>Pizza</item>
+        <item>Sandwiches</item>
+    </string-array>
+</resources>
