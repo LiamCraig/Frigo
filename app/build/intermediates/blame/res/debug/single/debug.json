@@ -516,6 +516,10 @@
         "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\61fd76c3f848cf55f45e843ab08cdd70\\appcompat-1.0.0\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_gradient_backgroundhomescreen.xml.flat",
+        "source": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\src\\main\\res\\drawable-v24\\gradient_backgroundhomescreen.xml"
+    },
+    {
         "merged": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
         "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\2946ca0ea6c89dab7d7d9fbc18e54292\\material-1.0.0\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
     },
@@ -754,6 +758,10 @@
     {
         "merged": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
         "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\61fd76c3f848cf55f45e843ab08cdd70\\appcompat-1.0.0\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -1576,6 +1584,10 @@
         "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\2946ca0ea6c89dab7d7d9fbc18e54292\\material-1.0.0\\res\\interpolator\\mtrl_linear.xml"
     },
     {
+        "merged": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_lock_outline_black_24dp.xml.flat",
+        "source": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\src\\main\\res\\drawable-v24\\ic_lock_outline_black_24dp.xml"
+    },
+    {
         "merged": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\ec609e8cee787e2dff3592c66b08a66a\\core-1.0.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
@@ -1690,6 +1702,10 @@
     {
         "merged": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\61fd76c3f848cf55f45e843ab08cdd70\\appcompat-1.0.0\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_account_circle_black_24dp.xml.flat",
+        "source": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\src\\main\\res\\drawable-v24\\ic_account_circle_black_24dp.xml"
     },
     {
         "merged": "C:\\Users\\alanm\\Desktop\\AndroidStudio Frig\\myfrigo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",

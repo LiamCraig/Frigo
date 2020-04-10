@@ -4,6 +4,12 @@
     <string name="close">close</string>
     <string name="my_frigo">My Frigo</string>
 
+    <string name="name">Name</string>
+    <string name="Username">username</string>
+    <string name="Password">password</string>
+    <string name="login">Login</string>
+    <string name="logon">Login</string>
+
     <string-array name="different_foods">
         <item>chicken</item>
         <item>chinese</item>

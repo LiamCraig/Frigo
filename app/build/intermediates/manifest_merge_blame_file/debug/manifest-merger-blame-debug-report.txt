@@ -11,7 +11,7 @@
 9-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:5:5-29:19
+11-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:5:5-30:19
 12        android:allowBackup="true"
 12-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:6:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -48,22 +48,25 @@
 27-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:18:27-74
 28            </intent-filter>
 29        </activity>
-30        <activity android:name="com.xstudioo.myfrigo.Details" >
-30-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:21:9-25:20
-30-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:21:19-62
-31            <meta-data
-31-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:22:13-24:69
-32                android:name="android.support.PARENT_ACTIVITY"
-32-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:23:17-63
-33                android:value="com.xstudioo.myfrigo.MainActivity" />
-33-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:24:17-66
-34        </activity>
-35        <activity
-35-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:26:9-28:59
-36            android:name="com.xstudioo.myfrigo.MainActivity"
-36-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:27:13-61
-37            android:theme="@style/AppTheme.NoActionBar" />
-37-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:28:13-56
-38    </application>
-39
-40</manifest>
+30        <activity android:name="com.xstudioo.myfrigo.LoginActivity" />
+30-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:21:9-71
+30-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:21:19-68
+31        <activity android:name="com.xstudioo.myfrigo.Details" >
+31-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:22:9-26:20
+31-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:22:19-62
+32            <meta-data
+32-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:23:13-25:69
+33                android:name="android.support.PARENT_ACTIVITY"
+33-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:24:17-63
+34                android:value="com.xstudioo.myfrigo.MainActivity" />
+34-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:25:17-66
+35        </activity>
+36        <activity
+36-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:27:9-29:59
+37            android:name="com.xstudioo.myfrigo.MainActivity"
+37-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:28:13-61
+38            android:theme="@style/AppTheme.NoActionBar" />
+38-->C:\Users\alanm\Desktop\AndroidStudio Frig\myfrigo\app\src\main\AndroidManifest.xml:29:13-56
+39    </application>
+40
+41</manifest>
