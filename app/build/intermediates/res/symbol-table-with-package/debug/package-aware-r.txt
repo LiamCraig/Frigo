@@ -1220,6 +1220,8 @@ id start
 id stretch
 id submenuarrow
 id submit_area
+id switch_1
+id switch_2
 id tabMode
 id tag_transition_group
 id tag_unhandled_key_event_manager
@@ -1231,6 +1233,9 @@ id textSpacerNoTitle
 id textStart
 id textView
 id textView2
+id textView3
+id textView4
+id text_1
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1312,6 +1317,8 @@ layout activity_recipe
 layout activity_settings
 layout activity_splash
 layout content_main
+layout content_recipe
+layout content_settings
 layout custom_view
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
