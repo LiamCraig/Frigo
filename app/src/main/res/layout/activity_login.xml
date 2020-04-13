@@ -1,59 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
     android:background="@drawable/gradient_backgroundhomescreen"
-    tools:context="com.xstudioo.myfrigo.LoginActivity"
-    android:orientation="vertical"
-    android:gravity="center_horizontal">
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="270dp"
-        android:layout_marginTop="50dp"
-        app:srcCompat="@drawable/frigologo" />
+        android:id="@+id/imageView"
+        android:layout_width="291dp"
+        android:layout_height="290dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginBottom="18dp"
+        app:layout_constraintBottom_toTopOf="@+id/email"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/frigocompletelogo" />
 
     <EditText
-        android:id="@+id/edittext_username"
-        android:layout_width="120dp"
-        android:layout_height="40dp"
-        android:layout_marginTop="40dp"
+        android:id="@+id/email"
+        android:layout_width="262dp"
+        android:layout_height="49dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginEnd="146dp"
+        android:layout_marginBottom="25dp"
         android:drawableLeft="@drawable/ic_account_circle_black_24dp"
-        android:hint="@string/Username"
-        android:inputType="textPersonName" />
+        android:hint=" Email"
+        android:inputType="textPersonName"
+        app:layout_constraintBottom_toTopOf="@+id/password"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.485"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <EditText
-        android:id="@+id/edittext_password"
-        android:layout_width="120dp"
-        android:layout_height="40dp"
-        android:layout_marginTop="20dp"
+        android:id="@+id/password"
+        android:layout_width="265dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="145dp"
+        android:layout_marginLeft="145dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="146dp"
+        android:layout_marginRight="146dp"
+        android:layout_marginBottom="205dp"
         android:drawableLeft="@drawable/ic_lock_outline_black_24dp"
-        android:hint="@string/Password"
-        android:inputType="textPassword" />
+        android:hint=" Password"
+        android:inputType="textPassword"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/email" />
 
     <Button
-        android:id="@+id/button_login"
+        android:id="@+id/loginBtn"
         android:layout_width="100dp"
         android:layout_height="45dp"
-        android:layout_marginTop="20dp"
-        android:text="@string/login" />
+        android:layout_marginStart="155dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="156dp"
+        android:layout_marginBottom="125dp"
+        android:text="Login"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/password" />
 
-    <LinearLayout
+    <TextView
+        android:id="@+id/createText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:layout_marginTop="10dp"/>
+        android:layout_marginStart="107dp"
+        android:layout_marginLeft="107dp"
+        android:layout_marginTop="19dp"
+        android:layout_marginEnd="108dp"
+        android:layout_marginRight="108dp"
+        android:layout_marginBottom="72dp"
+        android:text="New to Frigo? Create an account!"
+        android:textColor="#D8FFEB3B"
+        app:fontFamily="sans-serif-black"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loginBtn" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/createText"
+        app:layout_constraintVertical_bias="0.26" />
 
     <TextView
         android:id="@+id/tvInfo"
         android:layout_width="wrap_content"
         android:layout_height="45dp"
-        android:text="No of attempts remaining: " />
+        android:layout_marginTop="5dp"
+        android:text="No of attempts remaining: "
+        app:layout_constraintBottom_toTopOf="@+id/progressBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loginBtn" />
 
 
-</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
 
 
 

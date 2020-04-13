@@ -10,6 +10,8 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 
 import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -20,6 +22,7 @@ import com.google.android.material.navigation.NavigationView;
 
 public class RecipeActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener{
 
+    RecyclerView recyclerView;
     Toolbar toolbar;
     DrawerLayout drawer;
     ActionBarDrawerToggle toggle;
@@ -41,6 +44,16 @@ public class RecipeActivity extends AppCompatActivity implements NavigationView.
     drawer.addDrawerListener(toggle);
     toggle.setDrawerIndicatorEnabled(true);
     toggle.syncState();
+
+        String[] titles = getResources().getStringArray(R.array.recipes_title);
+        String[] contents = getResources().getStringArray(R.array.recipes_content);
+        int[] images = {R.drawable.chicken,R.drawable.chinese,R.drawable.fish,R.drawable.pasta,R.drawable.pizza,R.drawable.sandwiches};
+
+        recyclerView = findViewById(R.id.recipeListsView);
+
+        Adapter adapter = new Adapter(this, titles, contents, images);
+        recyclerView.setAdapter(adapter);
+        recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
       /*  @Override
         public boolean onCreateOptionsMenu(Menu menu) {

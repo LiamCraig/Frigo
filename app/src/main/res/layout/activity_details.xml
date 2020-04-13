@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".Details">
 
+
     <TextView
         android:id="@+id/contentOfRecipe"
         android:layout_width="0dp"

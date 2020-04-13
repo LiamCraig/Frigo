@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312323684339",
+    "firebase_url": "https://myfrigo-3071f.firebaseio.com",
+    "project_id": "myfrigo-3071f",
+    "storage_bucket": "myfrigo-3071f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312323684339:android:0a502f3e56b575f667c486",
+        "android_client_info": {
+          "package_name": "com.xstudioo.myfrigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312323684339-a76tg21jecreocibdkvr8vq1nqer977q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xstudioo.myfrigo",
+            "certificate_hash": "29170a158d05eec00037911719fdc2e76309471a"
+          }
+        },
+        {
+          "client_id": "312323684339-345k2t6bv5d51mu323m89m5q7h60rng7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCASFN4CgbX29s_WWEfrMY7tb3oOOCEHuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312323684339-345k2t6bv5d51mu323m89m5q7h60rng7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -20,7 +20,6 @@ import com.google.android.material.navigation.NavigationView;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
 
-    RecyclerView recyclerView;
     Toolbar toolbar;
     DrawerLayout drawer;
     ActionBarDrawerToggle toggle;
@@ -45,21 +44,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         drawer.addDrawerListener(toggle);
         toggle.setDrawerIndicatorEnabled(true);
         toggle.syncState();
-
-
-        String[] titles = getResources().getStringArray(R.array.recipes_title);
-        String[] contents = getResources().getStringArray(R.array.recipes_content);
-        int[] images = {R.drawable.chicken,R.drawable.chinese,R.drawable.fish,R.drawable.pasta,R.drawable.pizza,R.drawable.sandwiches};
-
-        recyclerView = findViewById(R.id.recipeListsView);
-
-        Adapter adapter = new Adapter(this, titles, contents, images);
-        recyclerView.setAdapter(adapter);
-        recyclerView.setLayoutManager(new LinearLayoutManager(this));
-        //recyclerView.setLayoutManager(new LinearLayoutManager(this));
-        //adapter = new Adapter(this,titles,contents, images); // our adapter takes two string array
-        //recyclerView.setAdapter(adapter);
-
 
 
     }
