@@ -1020,6 +1020,8 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable banner
+drawable bannercream
 drawable blackbgg
 drawable chicken
 drawable chinese
@@ -1055,6 +1057,8 @@ drawable frigologo
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable gradient_backgroundhomescreen
+drawable greenbackground
+drawable greysquare
 drawable ic_account_circle_black_24dp
 drawable ic_home_black_24dp
 drawable ic_launcher_background
@@ -1065,6 +1069,7 @@ drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable ic_restaurant_black_24dp
 drawable ic_settings_black_24dp
+drawable logotwo
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
@@ -1083,6 +1088,7 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable pasta
 drawable pizza
+drawable redbackground
 drawable sandwiches
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1159,7 +1165,6 @@ id direct
 id disableHome
 id drawer
 id edit_query
-id email
 id end
 id end_padder
 id enterAlways
@@ -1173,7 +1178,6 @@ id fill_vertical
 id filled
 id fixed
 id forever
-id fullName
 id ghost_view
 id gone
 id group_divider
@@ -1187,6 +1191,9 @@ id ifRoom
 id image
 id imageView
 id imageView2
+id imageView4
+id imageView5
+id imageView7
 id info
 id invisible
 id italic
@@ -1219,6 +1226,9 @@ id notification_background
 id notification_main_column
 id notification_main_column_container
 id outline
+id pEmail
+id pFullName
+id pPhone
 id packed
 id parallax
 id parent
@@ -1226,7 +1236,6 @@ id parentPanel
 id parent_matrix
 id password
 id percent
-id phone
 id pin
 id progressBar
 id progress_circular
@@ -1284,7 +1293,6 @@ id stretch
 id submenuarrow
 id submit_area
 id switch_1
-id switch_2
 id tabMode
 id tag_transition_group
 id tag_unhandled_key_event_manager
@@ -1295,9 +1303,13 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView
+id textView10
 id textView2
 id textView3
 id textView4
+id textView6
+id textView8
+id textView9
 id text_input_password_toggle
 id textinput_counter
 id textinput_error
@@ -1320,6 +1332,9 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id verifiedBtn
+id verifyBtn
+id verifyTxt
 id view_offset_helper
 id visible
 id wide

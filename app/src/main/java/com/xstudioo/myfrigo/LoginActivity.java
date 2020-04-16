@@ -36,12 +36,12 @@ public class LoginActivity extends AppCompatActivity {
 
         mInfo.setText("No of attempts remaining: 5");
 
-        mFullName = findViewById(R.id.fullName);
-        mEmail = findViewById(R.id.email);
+        mFullName = findViewById(R.id.pFullName);
+        mEmail = findViewById(R.id.pEmail);
         progressBar = findViewById(R.id.progressBar);
         fAuth = FirebaseAuth.getInstance();
         mPassword = findViewById(R.id.password);              //connects resources on xml file
-        mPhone = findViewById(R.id.phone);
+        mPhone = findViewById(R.id.pPhone);
         mLoginBtn = findViewById(R.id.loginBtn);
         mCreateBtn = findViewById(R.id.createText);
 

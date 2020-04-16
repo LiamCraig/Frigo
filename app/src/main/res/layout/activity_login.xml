@@ -14,14 +14,14 @@
         android:layout_height="290dp"
         android:layout_marginTop="72dp"
         android:layout_marginBottom="18dp"
-        app:layout_constraintBottom_toTopOf="@+id/email"
+        app:layout_constraintBottom_toTopOf="@+id/pEmail"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/frigocompletelogo" />
 
     <EditText
-        android:id="@+id/email"
+        android:id="@+id/pEmail"
         android:layout_width="262dp"
         android:layout_height="49dp"
         android:layout_marginStart="145dp"
@@ -53,7 +53,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/email" />
+        app:layout_constraintTop_toBottomOf="@+id/pEmail" />
 
     <Button
         android:id="@+id/loginBtn"
