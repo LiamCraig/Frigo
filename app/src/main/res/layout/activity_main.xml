@@ -17,6 +17,12 @@
         android:layout_width="match_parent"
         layout="@layout/content_main"/>
 
+    <include
+        android:layout_marginTop="?attr/actionBarSize"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        layout="@layout/activity_home"/>/>
+
     <com.google.android.material.navigation.NavigationView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
