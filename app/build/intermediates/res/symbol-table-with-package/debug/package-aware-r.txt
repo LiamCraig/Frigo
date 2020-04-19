@@ -1177,6 +1177,7 @@ id etItemPurchase
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id expiry_txt
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1245,9 +1246,11 @@ id parent_matrix
 id password
 id percent
 id pin
+id product_txt
 id progressBar
 id progress_circular
 id progress_horizontal
+id purchase_txt
 id radio
 id recipeListsView
 id recipeTitle
@@ -1404,6 +1407,7 @@ layout activity_recipe
 layout activity_register
 layout activity_settings
 layout activity_splash
+layout adapter_view_layout
 layout content_main
 layout content_recipe
 layout content_settings

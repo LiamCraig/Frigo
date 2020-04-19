@@ -52,6 +52,14 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         //find view by id
         list_view = findViewById(R.id.list_view);
         arrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, list);
+
+        arrayAdapter.add("Eggs");
+        arrayAdapter.add("Milk");
+        arrayAdapter.add("Bread");
+        arrayAdapter.add("Cheese");
+        arrayAdapter.add("Flour");
+        arrayAdapter.add("Butter");
+
         list_view.setAdapter(arrayAdapter);
 
 
@@ -125,6 +133,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
                             //DELETE ITEM
                             case R.id.item_del:
+
 
                                 Toast.makeText(MainActivity.this, "Item Deleted", Toast.LENGTH_SHORT).show();
                                 list.remove(position);
