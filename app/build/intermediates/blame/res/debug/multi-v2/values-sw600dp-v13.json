@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Liam/project-frigo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/Liam/project-frigo2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/Liam/.gradle/caches/transforms-2/files-2.1/43d10548910a2686de65fd51b2206c0d/material-1.0.0/res/values-sw600dp-v13/values-sw600dp-v13.xml",

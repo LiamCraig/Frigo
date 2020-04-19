@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Liam/project-frigo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
+            "outputFile": "/Users/Liam/project-frigo2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
             "map": [
                 {
                     "source": "/Users/Liam/.gradle/caches/transforms-2/files-2.1/016d5a1b15723daccaa6cbaa248ec60c/jetified-play-services-base-16.0.1/res/values-iw/values.xml",

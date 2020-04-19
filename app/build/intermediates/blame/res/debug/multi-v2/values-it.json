@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Liam/project-frigo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
+            "outputFile": "/Users/Liam/project-frigo2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml",
             "map": [
                 {
                     "source": "/Users/Liam/.gradle/caches/transforms-2/files-2.1/3ae3b2541271b4c0da0a1279b436b3cf/appcompat-1.0.0/res/values-it/values-it.xml",

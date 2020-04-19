@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:2:1-39:12
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:2:1-39:12
 MERGED from [com.google.android.material:material:1.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/43d10548910a2686de65fd51b2206c0d/material-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/3ae3b2541271b4c0da0a1279b436b3cf/appcompat-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/903628750a551479d07974af9ddb1514/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -47,31 +47,31 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Liam/.gradle/ca
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/8a422b90bfe2308ee62c0eaef9ccdad3/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/b9053f481f6d09d6b0325c41025a2cd9/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/d54c45b9f04539987bae9c0fea2b916e/protolite-well-known-types-16.0.0/AndroidManifest.xml:2:1-11:12
-INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:2:1-39:12
 	package
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:3:5-35
-		INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:2:1-39:12
-		INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:2:1-39:12
-		INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:2:1-39:12
+		INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:5:5-67
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:5:5-67
 MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/Liam/.gradle/caches/transforms-2/files-2.1/f261a90d83cdf690596e7aa02bec652a/jetified-firebase-firestore-17.1.2/AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-firestore:17.1.2] /Users/Liam/.gradle/caches/transforms-2/files-2.1/f261a90d83cdf690596e7aa02bec652a/jetified-firebase-firestore-17.1.2/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:7:5-37:19
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:7:5-37:19
 MERGED from [com.google.android.material:material:1.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/43d10548910a2686de65fd51b2206c0d/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/43d10548910a2686de65fd51b2206c0d/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Liam/.gradle/caches/transforms-2/files-2.1/e88b13ae8ecbb63da81ec85463301b9c/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
@@ -97,75 +97,75 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Liam
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/64b7781469d232890798202388df5fc9/core-1.0.0/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:13:9-40
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:13:9-40
 activity#com.xstudioo.myfrigo.SettingsActivity
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:14:9-15:58
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:14:9-15:58
 	android:theme
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:15:13-56
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:15:13-56
 	android:name
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:14:19-71
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:14:19-71
 activity#com.xstudioo.myfrigo.RecipeActivity
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:16:9-17:58
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:16:9-17:58
 	android:theme
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:17:13-56
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:17:13-56
 	android:name
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:16:19-69
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:16:19-69
 activity#com.xstudioo.myfrigo.RegisterActivity
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:18:9-19:58
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:18:9-19:58
 	android:theme
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:19:13-56
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:19:13-56
 	android:name
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:18:19-51
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:18:19-51
 activity#com.xstudioo.myfrigo.Splash
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:20:9-26:20
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:20:9-26:20
 	android:name
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:20:19-61
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:20:19-61
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:24:27-74
 activity#com.xstudioo.myfrigo.LoginActivity
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:27:9-28:58
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:27:9-28:58
 	android:theme
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:28:13-56
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:28:13-56
 	android:name
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:27:19-68
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:27:19-68
 activity#com.xstudioo.myfrigo.Details
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:29:9-33:20
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:29:9-33:20
 	android:name
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:29:19-62
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:29:19-62
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:30:13-32:69
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:30:13-32:69
 	android:value
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:32:17-66
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:32:17-66
 	android:name
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:31:17-63
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:31:17-63
 activity#com.xstudioo.myfrigo.MainActivity
-ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:34:9-36:59
+ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:34:9-36:59
 	android:theme
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:36:13-56
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:36:13-56
 	android:name
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml:35:13-61
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:35:13-61
 uses-sdk
-INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
-INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/43d10548910a2686de65fd51b2206c0d/material-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/43d10548910a2686de65fd51b2206c0d/material-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/3ae3b2541271b4c0da0a1279b436b3cf/appcompat-1.0.0/AndroidManifest.xml:20:5-44
@@ -252,16 +252,16 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Liam/.gradle/caches/t
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/b9053f481f6d09d6b0325c41025a2cd9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/d54c45b9f04539987bae9c0fea2b916e/protolite-well-known-types-16.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/d54c45b9f04539987bae9c0fea2b916e/protolite-well-known-types-16.0.0/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
-INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
-		ADDED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/Liam/project-frigo/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
 activity#com.google.firebase.auth.internal.FederatedSignInActivity
 ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
 	android:excludeFromRecents

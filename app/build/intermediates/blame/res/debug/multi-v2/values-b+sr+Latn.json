@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Liam/project-frigo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+            "outputFile": "/Users/Liam/project-frigo2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "/Users/Liam/.gradle/caches/transforms-2/files-2.1/7dd2a871575c71aa9fe51b56eb3d60dc/jetified-play-services-basement-16.1.0/res/values-b+sr+Latn/values.xml",
