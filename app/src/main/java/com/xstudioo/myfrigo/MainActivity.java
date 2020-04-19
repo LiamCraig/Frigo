@@ -15,9 +15,11 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.PopupMenu;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.widget.Toolbar;
@@ -29,18 +31,23 @@ import androidx.recyclerview.widget.RecyclerView;
 import com.google.android.material.navigation.NavigationView;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
-
+    //Nav
     Toolbar toolbar;
     DrawerLayout drawer;
     ActionBarDrawerToggle toggle;
     NavigationView navigationView;
 
-    //array list for data
+    //List
     ArrayList<String> list = new ArrayList<>();
     ListView list_view;
     ArrayAdapter arrayAdapter;
+
+    //QR Scanner
+    public static TextView resultTextView;
+    Button btn_scan;
 
 
     @Override
@@ -49,7 +56,21 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
 
         setContentView(R.layout.activity_main);
 
-        //find view by id
+        //QR Code Temporary Button + Code Item
+        resultTextView = (TextView)findViewById(R.id.result_txt);
+        btn_scan = (Button)findViewById(R.id.btn_scan);
+
+        btn_scan.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+
+                startActivity(new Intent(getApplicationContext(),ScanCodeActivity.class));
+
+            }
+        });
+
+        //List
         list_view = findViewById(R.id.list_view);
         arrayAdapter = new ArrayAdapter(this, android.R.layout.simple_list_item_1, list);
 
@@ -174,21 +195,44 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     //METHOD FOR ADDING ITEMS
     private void _addItem() {
 
+
         AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
         builder.setTitle("Add New Item");
 
         View v = LayoutInflater.from(MainActivity.this).inflate(R.layout.item_dialog, null, false);
 
         builder.setView(v);
+
+        final EditText etItemBarcode = v.findViewById(R.id.etItemBarcode);
         final EditText etItem = v.findViewById(R.id.etItem);
+        final EditText etItemPurchase = v.findViewById(R.id.etItemPurchase);
+        final EditText etItemExpiry = v.findViewById(R.id.etItemExpiry);
+
+
         builder.setPositiveButton("Add", new DialogInterface.OnClickListener() {
+
+
+
             @Override
             public void onClick(DialogInterface dialog, int which) {
+
+                if (!etItemBarcode.getText().toString().isEmpty()) {
+                    list.add(etItemBarcode.getText().toString().trim());
+                    arrayAdapter.notifyDataSetChanged();
+                }
                 if (!etItem.getText().toString().isEmpty()) {
                     list.add(etItem.getText().toString().trim());
                     arrayAdapter.notifyDataSetChanged();
-
-                } else {
+                }
+                if (!etItemPurchase.getText().toString().isEmpty()) {
+                    list.add(etItemPurchase.getText().toString().trim());
+                    arrayAdapter.notifyDataSetChanged();
+                }
+                if (!etItemExpiry.getText().toString().isEmpty()) {
+                    list.add(etItemExpiry.getText().toString().trim());
+                    arrayAdapter.notifyDataSetChanged();
+                }
+                else {
                     etItem.setError("add item here !");
                 }
             }
@@ -237,4 +281,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
         //}
         //return true;
     }
+
+
 }
