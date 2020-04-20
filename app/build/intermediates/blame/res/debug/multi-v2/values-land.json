@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Liam/project-frigo2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "C:\\Users\\alanm\\Desktop\\fr\\project-frigo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "/Users/Liam/.gradle/caches/transforms-2/files-2.1/3ae3b2541271b4c0da0a1279b436b3cf/appcompat-1.0.0/res/values-land/values-land.xml",
+                    "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\a4976663e36c9e0a790ddccb49a26ec4\\appcompat-1.0.2\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/Liam/.gradle/caches/transforms-2/files-2.1/43d10548910a2686de65fd51b2206c0d/material-1.0.0/res/values-land/values-land.xml",
+                    "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\f3a11c61ff9d52c1fbb36a59653fea56\\material-1.0.0\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

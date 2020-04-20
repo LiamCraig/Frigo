@@ -6,220 +6,226 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="22"
-8-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
+8-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml
+9-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:5:5-67
-11-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:5:22-64
+11-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.CAMERA" />
-12-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:6:5-64
-12-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:6:22-62
+12-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:6:5-64
+12-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:6:22-62
 13
 14    <uses-feature
-14-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:7:5-84
+14-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:7:5-84
 15        android:name="android.hardware.camera"
-15-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:7:19-57
+15-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:7:19-57
 16        android:required="false" />
-16-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:7:58-82
+16-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:7:58-82
 17    <uses-feature
-17-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:8:5-94
+17-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:8:5-94
 18        android:name="android.hardware.camera.autofocus"
-18-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:8:19-67
+18-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:8:19-67
 19        android:required="false" />
-19-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:8:68-92
+19-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:8:68-92
 20    <uses-feature
-20-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:9:5-90
+20-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:9:5-90
 21        android:name="android.hardware.camera.front"
-21-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:9:19-63
+21-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:9:19-63
 22        android:required="false" />
-22-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:9:64-88
+22-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:9:64-88
 23    <uses-feature
-23-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:10:5-100
+23-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:10:5-100
 24        android:name="android.hardware.camera.front.autofocus"
-24-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:10:19-73
+24-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:10:19-73
 25        android:required="false" />
-25-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:10:74-98
+25-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:10:74-98
 26
 27    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-27-->[com.google.firebase:firebase-firestore:17.1.2] /Users/Liam/.gradle/caches/transforms-2/files-2.1/f261a90d83cdf690596e7aa02bec652a/jetified-firebase-firestore-17.1.2/AndroidManifest.xml:10:5-79
-27-->[com.google.firebase:firebase-firestore:17.1.2] /Users/Liam/.gradle/caches/transforms-2/files-2.1/f261a90d83cdf690596e7aa02bec652a/jetified-firebase-firestore-17.1.2/AndroidManifest.xml:10:22-76
+27-->[com.google.firebase:firebase-firestore:17.1.2] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\8374219a9f6984551ad36a7790812af2\jetified-firebase-firestore-17.1.2\AndroidManifest.xml:10:5-79
+27-->[com.google.firebase:firebase-firestore:17.1.2] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\8374219a9f6984551ad36a7790812af2\jetified-firebase-firestore-17.1.2\AndroidManifest.xml:10:22-76
 28
 29    <application
-29-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:13:5-53:19
+29-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:13:5-53:19
 30        android:allowBackup="true"
-30-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:14:9-35
+30-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:14:9-35
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-31-->[androidx.core:core:1.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/64b7781469d232890798202388df5fc9/core-1.0.0/AndroidManifest.xml:22:18-86
+31-->[androidx.core:core:1.0.1] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\4bb9740b9abcde0416a019c3e52780d1\core-1.0.1\AndroidManifest.xml:22:18-86
 32        android:debuggable="true"
 33        android:icon="@mipmap/ic_launcher"
-33-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:15:9-43
+33-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:15:9-43
 34        android:label="@string/app_name"
-34-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:16:9-41
+34-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:16:9-41
 35        android:roundIcon="@mipmap/ic_launcher_round"
-35-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:17:9-54
+35-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:17:9-54
 36        android:supportsRtl="true"
-36-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:18:9-35
+36-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:18:9-35
 37        android:testOnly="true"
 38        android:theme="@style/AppTheme" >
-38-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:19:9-40
+38-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:19:9-40
 39        <activity
-39-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:21:9-22:58
+39-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:21:9-22:58
 40            android:name="com.xstudioo.myfrigo.ScanCodeActivity"
-40-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:21:19-71
+40-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:21:19-71
 41            android:theme="@style/AppTheme.NoActionBar" />
-41-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:22:13-56
+41-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:22:13-56
 42        <activity
-42-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:24:9-25:58
+42-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:24:9-25:58
 43            android:name="com.xstudioo.myfrigo.ProductListAdapter"
-43-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:24:19-73
+43-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:24:19-73
 44            android:theme="@style/AppTheme.NoActionBar" />
-44-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:25:13-56
+44-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:25:13-56
 45        <activity
-45-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:27:9-28:58
+45-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:27:9-28:58
 46            android:name="com.xstudioo.myfrigo.Products"
-46-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:27:19-63
+46-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:27:19-63
 47            android:theme="@style/AppTheme.NoActionBar" />
-47-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:28:13-56
+47-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:28:13-56
 48        <activity
-48-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:30:9-31:58
+48-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:30:9-31:58
 49            android:name="com.xstudioo.myfrigo.SettingsActivity"
-49-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:30:19-71
+49-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:30:19-71
 50            android:theme="@style/AppTheme.NoActionBar" />
-50-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:31:13-56
+50-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:31:13-56
 51        <activity
-51-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:32:9-33:58
+51-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:32:9-33:58
 52            android:name="com.xstudioo.myfrigo.RecipeActivity"
-52-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:32:19-69
+52-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:32:19-69
 53            android:theme="@style/AppTheme.NoActionBar" />
-53-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:33:13-56
+53-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:33:13-56
 54        <activity
-54-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:34:9-35:58
+54-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:34:9-35:58
 55            android:name="com.xstudioo.myfrigo.RegisterActivity"
-55-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:34:19-51
+55-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:34:19-51
 56            android:theme="@style/AppTheme.NoActionBar" />
-56-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:35:13-56
+56-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:35:13-56
 57        <activity android:name="com.xstudioo.myfrigo.Splash" >
-57-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:36:9-42:20
-57-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:36:19-61
+57-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:36:9-42:20
+57-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:36:19-61
 58            <intent-filter>
-58-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:37:13-41:29
+58-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:37:13-41:29
 59                <action android:name="android.intent.action.MAIN" />
-59-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:38:17-69
-59-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:38:25-66
+59-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:38:17-69
+59-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:38:25-66
 60
 61                <category android:name="android.intent.category.LAUNCHER" />
-61-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:40:17-77
-61-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:40:27-74
+61-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:40:17-77
+61-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:40:27-74
 62            </intent-filter>
 63        </activity>
 64        <activity
-64-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:43:9-44:58
+64-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:43:9-44:58
 65            android:name="com.xstudioo.myfrigo.LoginActivity"
-65-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:43:19-68
+65-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:43:19-68
 66            android:theme="@style/AppTheme.NoActionBar" />
-66-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:44:13-56
+66-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:44:13-56
 67        <activity android:name="com.xstudioo.myfrigo.Details" >
-67-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:45:9-49:20
-67-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:45:19-62
+67-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:45:9-49:20
+67-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:45:19-62
 68            <meta-data
-68-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:46:13-48:69
+68-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:46:13-48:69
 69                android:name="android.support.PARENT_ACTIVITY"
-69-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:47:17-63
+69-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:47:17-63
 70                android:value="com.xstudioo.myfrigo.MainActivity" />
-70-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:48:17-66
+70-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:48:17-66
 71        </activity>
 72        <activity
-72-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:50:9-52:59
+72-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:50:9-52:59
 73            android:name="com.xstudioo.myfrigo.MainActivity"
-73-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:51:13-61
+73-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:51:13-61
 74            android:theme="@style/AppTheme.NoActionBar" />
-74-->/Users/Liam/project-frigo2/app/src/main/AndroidManifest.xml:52:13-56
+74-->C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:52:13-56
 75        <activity
-75-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:24:9-31:50
-76            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
-76-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:25:13-85
-77            android:excludeFromRecents="true"
-77-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:26:13-46
-78            android:exported="true"
-78-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:27:13-36
-79            android:launchMode="singleTask"
-79-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:28:13-44
-80            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
-80-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:29:13-102
-81            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-81-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:30:13-72
-82
-83        <service
-83-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:33:9-39:19
-84            android:name="com.google.firebase.components.ComponentDiscoveryService"
-84-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:34:13-84
-85            android:exported="false" >
-85-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:35:13-37
-86            <meta-data
-86-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:36:13-38:85
-87                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
-87-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:37:17-109
-88                android:value="com.google.firebase.components.ComponentRegistrar" />
-88-->[com.google.firebase:firebase-auth:16.0.5] /Users/Liam/.gradle/caches/transforms-2/files-2.1/dac645c283dec33d755a4de93810b6da/jetified-firebase-auth-16.0.5/AndroidManifest.xml:38:17-82
+75-->[com.karumi:dexter:6.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\ba664ece2dbb872529477b423ccf8f41\jetified-dexter-6.0.0\AndroidManifest.xml:27:9-29:72
+76            android:name="com.karumi.dexter.DexterActivity"
+76-->[com.karumi:dexter:6.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\ba664ece2dbb872529477b423ccf8f41\jetified-dexter-6.0.0\AndroidManifest.xml:28:13-60
+77            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+77-->[com.karumi:dexter:6.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\ba664ece2dbb872529477b423ccf8f41\jetified-dexter-6.0.0\AndroidManifest.xml:29:13-69
+78        <activity
+78-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:24:9-31:50
+79            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+79-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:25:13-85
+80            android:excludeFromRecents="true"
+80-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:26:13-46
+81            android:exported="true"
+81-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:27:13-36
+82            android:launchMode="singleTask"
+82-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:28:13-44
+83            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+83-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:29:13-102
+84            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+84-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:30:13-72
+85
+86        <service
+86-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:33:9-39:19
+87            android:name="com.google.firebase.components.ComponentDiscoveryService"
+87-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:34:13-84
+88            android:exported="false" >
+88-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:35:13-37
 89            <meta-data
-89-->[com.google.firebase:firebase-firestore:17.1.2] /Users/Liam/.gradle/caches/transforms-2/files-2.1/f261a90d83cdf690596e7aa02bec652a/jetified-firebase-firestore-17.1.2/AndroidManifest.xml:15:13-17:85
-90                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-90-->[com.google.firebase:firebase-firestore:17.1.2] /Users/Liam/.gradle/caches/transforms-2/files-2.1/f261a90d83cdf690596e7aa02bec652a/jetified-firebase-firestore-17.1.2/AndroidManifest.xml:16:17-111
+89-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:36:13-38:85
+90                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+90-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:37:17-109
 91                android:value="com.google.firebase.components.ComponentRegistrar" />
-91-->[com.google.firebase:firebase-firestore:17.1.2] /Users/Liam/.gradle/caches/transforms-2/files-2.1/f261a90d83cdf690596e7aa02bec652a/jetified-firebase-firestore-17.1.2/AndroidManifest.xml:17:17-82
-92        </service>
-93
-94        <activity
-94-->[com.google.android.gms:play-services-auth:16.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/7ba7a087afebe2482cfc9771436e3dce/jetified-play-services-auth-16.0.0/AndroidManifest.xml:23:9-27:75
-95            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-95-->[com.google.android.gms:play-services-auth:16.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/7ba7a087afebe2482cfc9771436e3dce/jetified-play-services-auth-16.0.0/AndroidManifest.xml:24:13-93
-96            android:excludeFromRecents="true"
-96-->[com.google.android.gms:play-services-auth:16.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/7ba7a087afebe2482cfc9771436e3dce/jetified-play-services-auth-16.0.0/AndroidManifest.xml:25:13-46
-97            android:exported="false"
-97-->[com.google.android.gms:play-services-auth:16.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/7ba7a087afebe2482cfc9771436e3dce/jetified-play-services-auth-16.0.0/AndroidManifest.xml:26:13-37
-98            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-98-->[com.google.android.gms:play-services-auth:16.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/7ba7a087afebe2482cfc9771436e3dce/jetified-play-services-auth-16.0.0/AndroidManifest.xml:27:13-72
-99        <!--
-100            Service handling Google Sign-In user revocation. For apps that do not integrate with
-101            Google Sign-In, this service will never be started.
-102        -->
-103        <service
-103-->[com.google.android.gms:play-services-auth:16.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/7ba7a087afebe2482cfc9771436e3dce/jetified-play-services-auth-16.0.0/AndroidManifest.xml:33:9-36:110
-104            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-104-->[com.google.android.gms:play-services-auth:16.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/7ba7a087afebe2482cfc9771436e3dce/jetified-play-services-auth-16.0.0/AndroidManifest.xml:34:13-89
-105            android:exported="true"
-105-->[com.google.android.gms:play-services-auth:16.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/7ba7a087afebe2482cfc9771436e3dce/jetified-play-services-auth-16.0.0/AndroidManifest.xml:35:13-36
-106            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-106-->[com.google.android.gms:play-services-auth:16.0.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/7ba7a087afebe2482cfc9771436e3dce/jetified-play-services-auth-16.0.0/AndroidManifest.xml:36:13-107
-107
-108        <activity
-108-->[com.google.android.gms:play-services-base:16.0.1] /Users/Liam/.gradle/caches/transforms-2/files-2.1/016d5a1b15723daccaa6cbaa248ec60c/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
-109            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-109-->[com.google.android.gms:play-services-base:16.0.1] /Users/Liam/.gradle/caches/transforms-2/files-2.1/016d5a1b15723daccaa6cbaa248ec60c/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
-110            android:exported="false"
-110-->[com.google.android.gms:play-services-base:16.0.1] /Users/Liam/.gradle/caches/transforms-2/files-2.1/016d5a1b15723daccaa6cbaa248ec60c/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
-111            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-111-->[com.google.android.gms:play-services-base:16.0.1] /Users/Liam/.gradle/caches/transforms-2/files-2.1/016d5a1b15723daccaa6cbaa248ec60c/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
-112
-113        <provider
-113-->[com.google.firebase:firebase-common:16.0.3] /Users/Liam/.gradle/caches/transforms-2/files-2.1/9928758da473d0d6302658746505f889/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
-114            android:name="com.google.firebase.provider.FirebaseInitProvider"
-114-->[com.google.firebase:firebase-common:16.0.3] /Users/Liam/.gradle/caches/transforms-2/files-2.1/9928758da473d0d6302658746505f889/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
-115            android:authorities="com.xstudioo.myfrigo.firebaseinitprovider"
-115-->[com.google.firebase:firebase-common:16.0.3] /Users/Liam/.gradle/caches/transforms-2/files-2.1/9928758da473d0d6302658746505f889/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
-116            android:exported="false"
-116-->[com.google.firebase:firebase-common:16.0.3] /Users/Liam/.gradle/caches/transforms-2/files-2.1/9928758da473d0d6302658746505f889/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
-117            android:initOrder="100" />
-117-->[com.google.firebase:firebase-common:16.0.3] /Users/Liam/.gradle/caches/transforms-2/files-2.1/9928758da473d0d6302658746505f889/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
-118
-119        <meta-data
-119-->[com.google.android.gms:play-services-basement:16.1.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/7dd2a871575c71aa9fe51b56eb3d60dc/jetified-play-services-basement-16.1.0/AndroidManifest.xml:23:9-25:69
-120            android:name="com.google.android.gms.version"
-120-->[com.google.android.gms:play-services-basement:16.1.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/7dd2a871575c71aa9fe51b56eb3d60dc/jetified-play-services-basement-16.1.0/AndroidManifest.xml:24:13-58
-121            android:value="@integer/google_play_services_version" />
-121-->[com.google.android.gms:play-services-basement:16.1.0] /Users/Liam/.gradle/caches/transforms-2/files-2.1/7dd2a871575c71aa9fe51b56eb3d60dc/jetified-play-services-basement-16.1.0/AndroidManifest.xml:25:13-66
-122    </application>
-123
-124</manifest>
+91-->[com.google.firebase:firebase-auth:16.0.5] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\63a92630effd368ea4fb54176ffa7073\jetified-firebase-auth-16.0.5\AndroidManifest.xml:38:17-82
+92            <meta-data
+92-->[com.google.firebase:firebase-firestore:17.1.2] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\8374219a9f6984551ad36a7790812af2\jetified-firebase-firestore-17.1.2\AndroidManifest.xml:15:13-17:85
+93                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+93-->[com.google.firebase:firebase-firestore:17.1.2] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\8374219a9f6984551ad36a7790812af2\jetified-firebase-firestore-17.1.2\AndroidManifest.xml:16:17-111
+94                android:value="com.google.firebase.components.ComponentRegistrar" />
+94-->[com.google.firebase:firebase-firestore:17.1.2] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\8374219a9f6984551ad36a7790812af2\jetified-firebase-firestore-17.1.2\AndroidManifest.xml:17:17-82
+95        </service>
+96
+97        <activity
+97-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\7006b3544e92d4641acb171e0e63175c\jetified-play-services-auth-16.0.0\AndroidManifest.xml:23:9-27:75
+98            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+98-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\7006b3544e92d4641acb171e0e63175c\jetified-play-services-auth-16.0.0\AndroidManifest.xml:24:13-93
+99            android:excludeFromRecents="true"
+99-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\7006b3544e92d4641acb171e0e63175c\jetified-play-services-auth-16.0.0\AndroidManifest.xml:25:13-46
+100            android:exported="false"
+100-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\7006b3544e92d4641acb171e0e63175c\jetified-play-services-auth-16.0.0\AndroidManifest.xml:26:13-37
+101            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+101-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\7006b3544e92d4641acb171e0e63175c\jetified-play-services-auth-16.0.0\AndroidManifest.xml:27:13-72
+102        <!--
+103            Service handling Google Sign-In user revocation. For apps that do not integrate with
+104            Google Sign-In, this service will never be started.
+105        -->
+106        <service
+106-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\7006b3544e92d4641acb171e0e63175c\jetified-play-services-auth-16.0.0\AndroidManifest.xml:33:9-36:110
+107            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+107-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\7006b3544e92d4641acb171e0e63175c\jetified-play-services-auth-16.0.0\AndroidManifest.xml:34:13-89
+108            android:exported="true"
+108-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\7006b3544e92d4641acb171e0e63175c\jetified-play-services-auth-16.0.0\AndroidManifest.xml:35:13-36
+109            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+109-->[com.google.android.gms:play-services-auth:16.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\7006b3544e92d4641acb171e0e63175c\jetified-play-services-auth-16.0.0\AndroidManifest.xml:36:13-107
+110
+111        <activity
+111-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\52568746c2a800e6e86b4027b9814deb\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+112            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+112-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\52568746c2a800e6e86b4027b9814deb\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+113            android:exported="false"
+113-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\52568746c2a800e6e86b4027b9814deb\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+114            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+114-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\52568746c2a800e6e86b4027b9814deb\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+115
+116        <provider
+116-->[com.google.firebase:firebase-common:16.0.3] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\c230048ec1734b5d3b56db9238d1c651\jetified-firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+117            android:name="com.google.firebase.provider.FirebaseInitProvider"
+117-->[com.google.firebase:firebase-common:16.0.3] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\c230048ec1734b5d3b56db9238d1c651\jetified-firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+118            android:authorities="com.xstudioo.myfrigo.firebaseinitprovider"
+118-->[com.google.firebase:firebase-common:16.0.3] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\c230048ec1734b5d3b56db9238d1c651\jetified-firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+119            android:exported="false"
+119-->[com.google.firebase:firebase-common:16.0.3] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\c230048ec1734b5d3b56db9238d1c651\jetified-firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+120            android:initOrder="100" />
+120-->[com.google.firebase:firebase-common:16.0.3] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\c230048ec1734b5d3b56db9238d1c651\jetified-firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+121
+122        <meta-data
+122-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\06e7a4b7723ab167d9e5cb92e7cc6eae\jetified-play-services-basement-16.1.0\AndroidManifest.xml:23:9-25:69
+123            android:name="com.google.android.gms.version"
+123-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\06e7a4b7723ab167d9e5cb92e7cc6eae\jetified-play-services-basement-16.1.0\AndroidManifest.xml:24:13-58
+124            android:value="@integer/google_play_services_version" />
+124-->[com.google.android.gms:play-services-basement:16.1.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\06e7a4b7723ab167d9e5cb92e7cc6eae\jetified-play-services-basement-16.1.0\AndroidManifest.xml:25:13-66
+125    </application>
+126
+127</manifest>

@@ -74,6 +74,9 @@
             android:name="com.xstudioo.myfrigo.MainActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
+            android:name="com.karumi.dexter.DexterActivity"
+            android:theme="@style/Dexter.Internal.Theme.Transparent" />
+        <activity
             android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
             android:excludeFromRecents="true"
             android:exported="true"

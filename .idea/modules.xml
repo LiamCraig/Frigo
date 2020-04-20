@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="myfrigo/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="project-frigo/app" />
+      <module fileurl="file://$PROJECT_DIR$/project-frigo.iml" filepath="$PROJECT_DIR$/project-frigo.iml" group="project-frigo" />
       <module fileurl="file://$PROJECT_DIR$/project-frigo2.iml" filepath="$PROJECT_DIR$/project-frigo2.iml" />
     </modules>
   </component>
