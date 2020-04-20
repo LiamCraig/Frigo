@@ -9,12 +9,22 @@
     tools:context=".AddRecordActivity">
 
 
+
     <TextView
         android:id="@+id/title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Add new item"
         android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/barcode_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Barcode ID" />
+
 
     <EditText
         android:id="@+id/userName"
@@ -53,5 +63,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Add Item"/>
+
+    <Button
+        android:id="@+id/scan_item_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Scan" />
+
+
+
 
 </LinearLayout>

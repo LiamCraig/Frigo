@@ -7,15 +7,17 @@ public class Person {
     private String age;
     private String occupation;
     private String image;
+    private String barcode;
 
     public Person() {
     }
 
-    public Person(String name, String age, String occupation, String image) {
+    public Person(String name, String age, String occupation, String image, String barcode) {
         this.name = name;
         this.age = age;
         this.occupation = occupation;
         this.image = image;
+        this.barcode = barcode;
     }
 
     public long getId() {
@@ -56,5 +58,13 @@ public class Person {
 
     public void setImage(String image) {
         this.image = image;
+    }
+
+    public String getBarcode() {
+        return barcode;
+    }
+
+    public void setBarcode(String barcode) {
+        this.barcode = barcode;
     }
 }

@@ -13,7 +13,9 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.Spinner;
+import android.widget.TextView;
 
 public class add extends AppCompatActivity {
 
@@ -23,6 +25,8 @@ public class add extends AppCompatActivity {
     private PersonDBHelper dbHelper;
     private PersonAdapter Padapter;
     private String filter = "";
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -39,6 +43,7 @@ public class add extends AppCompatActivity {
 
         //populate recyclerview
         populaterecyclerView(filter);
+
 
 
     }

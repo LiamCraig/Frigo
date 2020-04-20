@@ -16,6 +16,8 @@ import com.karumi.dexter.listener.single.PermissionListener;
 
 import me.dm7.barcodescanner.zxing.ZXingScannerView;
 
+import static android.widget.TextView.BufferType;
+
 public class ScanCodeActivity extends AppCompatActivity implements ZXingScannerView.ResultHandler {
 
     ZXingScannerView ScannerView;
@@ -32,7 +34,7 @@ public class ScanCodeActivity extends AppCompatActivity implements ZXingScannerV
 
 
 
-        scan.resultTextView.setText(result.getText());
+        AddRecordActivity.resultTextView.setText(result.getText());
         onBackPressed();
 
     }

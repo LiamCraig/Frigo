@@ -10,17 +10,17 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class scan extends AppCompatActivity {
 
-    //QR Scanner
+/*    //QR Scanner
     public static TextView resultTextView;
     Button btn_scan;
-
+    */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_scan);
 
 
-        //QR Code Temporary Button + Code Item
+     /*   //QR Code Temporary Button + Code Item
         resultTextView = (TextView) findViewById(R.id.result_txt);
         btn_scan = (Button) findViewById(R.id.btn_scan);
 
@@ -31,6 +31,6 @@ public class scan extends AppCompatActivity {
 
                 startActivity(new Intent(getApplicationContext(), ScanCodeActivity.class));
             }
-        });
+        });*/
     }
 }

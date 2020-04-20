@@ -32,6 +32,8 @@ public class PersonAdapter extends RecyclerView.Adapter<PersonAdapter.ViewHolder
     // you provide access to all the views for a data item in a view holder
     public class ViewHolder extends RecyclerView.ViewHolder {
         // each data item is just a string in this case
+
+        public TextView barcode_id;
         public TextView personNameTxtV;
         public TextView personAgeTxtV;
         public TextView personOccupationTxtV;
@@ -43,6 +45,7 @@ public class PersonAdapter extends RecyclerView.Adapter<PersonAdapter.ViewHolder
         public ViewHolder(View v) {
             super(v);
             layout = v;
+            barcode_id = (TextView) v.findViewById(R.id.barcode_txt);
             personNameTxtV = (TextView) v.findViewById(R.id.name);
             personAgeTxtV = (TextView) v.findViewById(R.id.Quantity);
             personOccupationTxtV = (TextView) v.findViewById(R.id.occupation);
@@ -94,6 +97,7 @@ public class PersonAdapter extends RecyclerView.Adapter<PersonAdapter.ViewHolder
         holder.personNameTxtV.setText("Item Name: " + person.getName());
         holder.personAgeTxtV.setText("Quantity: " + person.getAge());
         holder.personOccupationTxtV.setText("Expiry date: " + person.getOccupation());
+        holder.barcode_id.setText("Barcode ID: " + person.getBarcode());
         Picasso.with(mContext).load(person.getImage()).placeholder(R.mipmap.ic_launcher).into(holder.personImageImgV);
 
         //listen to single view layout click

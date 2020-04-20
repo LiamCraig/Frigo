@@ -43,6 +43,12 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Expire date" />
+
+                <TextView
+                    android:id="@+id/barcode_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Barcode ID" />
             </LinearLayout>
 
         </LinearLayout>

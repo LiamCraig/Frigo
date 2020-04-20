@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\alanm\\Desktop\\FRIGO\\project-frigo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "/Users/Liam/project-frigo5/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\7006b3544e92d4641acb171e0e63175c\\jetified-play-services-auth-16.0.0\\res\\values-watch-v20\\values.xml",
+                    "source": "/Users/Liam/.gradle/caches/transforms-2/files-2.1/574d0052c193542fe4ebe14b70dcf2aa/jetified-play-services-auth-16.0.0/res/values-watch-v20/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11",
                         "startColumns": "0,0,0,0,0,0,0,0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\a4976663e36c9e0a790ddccb49a26ec4\\appcompat-1.0.2\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "/Users/Liam/.gradle/caches/transforms-2/files-2.1/792cec6adf551dcf0b5193494b8f57a4/appcompat-1.0.2/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

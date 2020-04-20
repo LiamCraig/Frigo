@@ -18,6 +18,9 @@ public class UpdateRecordActivity extends AppCompatActivity {
     private EditText mImageEditText;
     private Button mUpdateBtn;
 
+    public static EditText resultTextView;
+    Button btn_scan;
+
     private PersonDBHelper dbHelper;
     private long receivedPersonId;
 
@@ -25,6 +28,19 @@ public class UpdateRecordActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_update_record);
+
+        //QR Scanner
+        resultTextView = (EditText) findViewById(R.id.barcode_id);
+        btn_scan = (Button) findViewById(R.id.scan_item_btn);
+
+        btn_scan.setOnClickListener(new View.OnClickListener() {
+
+            @Override
+            public void onClick(View v) {
+
+                startActivity(new Intent(getApplicationContext(), ScanCodeActivity.class));
+            }
+        });
 
         //init
         mNameEditText = (EditText)findViewById(R.id.userNameUpdate);
@@ -49,6 +65,7 @@ public class UpdateRecordActivity extends AppCompatActivity {
         mAgeEditText.setText(queriedPerson.getAge());
         mOccupationEditText.setText(queriedPerson.getOccupation());
         mImageEditText.setText(queriedPerson.getImage());
+        resultTextView.setText(queriedPerson.getBarcode());
 
 
 
@@ -72,6 +89,7 @@ public class UpdateRecordActivity extends AppCompatActivity {
         String age = mAgeEditText.getText().toString().trim();
         String occupation = mOccupationEditText.getText().toString().trim();
         String image = mImageEditText.getText().toString().trim();
+        String barcode = resultTextView.getText().toString().trim();
 
 
         if(name.isEmpty()){
@@ -95,7 +113,7 @@ public class UpdateRecordActivity extends AppCompatActivity {
         }
 
         //create updated person
-        Person updatedPerson = new Person(name, age, occupation, image);
+        Person updatedPerson = new Person(name, age, occupation, image, barcode);
 
         //call dbhelper update
         dbHelper.updatePersonRecord(receivedPersonId, this, updatedPerson);

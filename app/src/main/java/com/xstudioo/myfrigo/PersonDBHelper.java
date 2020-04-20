@@ -20,6 +20,7 @@ public class PersonDBHelper extends SQLiteOpenHelper {
     public static final String COLUMN_PERSON_AGE = "age";
     public static final String COLUMN_PERSON_OCCUPATION = "occupation";
     public static final String COLUMN_PERSON_IMAGE = "image";
+    public static final String COLUMN_PERSON_BARCODE= "barcode";
 
 
     public PersonDBHelper(Context context) {
@@ -33,7 +34,8 @@ public class PersonDBHelper extends SQLiteOpenHelper {
                 COLUMN_PERSON_NAME + " TEXT NOT NULL, " +
                 COLUMN_PERSON_AGE + " NUMBER NOT NULL, " +
                 COLUMN_PERSON_OCCUPATION + " TEXT NOT NULL, " +
-                COLUMN_PERSON_IMAGE + " BLOB NOT NULL);"
+                COLUMN_PERSON_IMAGE + " BLOB NOT NULL," +
+                COLUMN_PERSON_BARCODE + " TEXT NOT NULL);"
         );
 
     }
@@ -53,6 +55,7 @@ public class PersonDBHelper extends SQLiteOpenHelper {
         values.put(COLUMN_PERSON_AGE, person.getAge());
         values.put(COLUMN_PERSON_OCCUPATION, person.getOccupation());
         values.put(COLUMN_PERSON_IMAGE, person.getImage());
+        values.put(COLUMN_PERSON_BARCODE, person.getBarcode());
 
         // insert
         db.insert(TABLE_NAME,null, values);
@@ -84,6 +87,7 @@ public class PersonDBHelper extends SQLiteOpenHelper {
                 person.setAge(cursor.getString(cursor.getColumnIndex(COLUMN_PERSON_AGE)));
                 person.setOccupation(cursor.getString(cursor.getColumnIndex(COLUMN_PERSON_OCCUPATION)));
                 person.setImage(cursor.getString(cursor.getColumnIndex(COLUMN_PERSON_IMAGE)));
+                person.setBarcode(cursor.getString(cursor.getColumnIndex(COLUMN_PERSON_BARCODE)));
                 personLinkedList.add(person);
             } while (cursor.moveToNext());
         }
@@ -106,6 +110,7 @@ public class PersonDBHelper extends SQLiteOpenHelper {
             receivedPerson.setAge(cursor.getString(cursor.getColumnIndex(COLUMN_PERSON_AGE)));
             receivedPerson.setOccupation(cursor.getString(cursor.getColumnIndex(COLUMN_PERSON_OCCUPATION)));
             receivedPerson.setImage(cursor.getString(cursor.getColumnIndex(COLUMN_PERSON_IMAGE)));
+            receivedPerson.setBarcode(cursor.getString(cursor.getColumnIndex(COLUMN_PERSON_BARCODE)));
         }
 
 

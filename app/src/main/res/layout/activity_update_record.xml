@@ -17,6 +17,14 @@
         android:textAlignment="center" />
 
     <EditText
+        android:id="@+id/userBarcode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Barcode ID" />
+
+    <EditText
         android:id="@+id/userNameUpdate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

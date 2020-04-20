@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\alanm\\Desktop\\FRIGO\\project-frigo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "/Users/Liam/project-frigo5/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\03ffb47a336fd19f1a55ab74d1874bae\\jetified-core-1.9\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,113",
-                        "endColumns": "57,55",
-                        "endOffsets": "108,164"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\a4976663e36c9e0a790ddccb49a26ec4\\appcompat-1.0.2\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "source": "/Users/Liam/.gradle/caches/transforms-2/files-2.1/792cec6adf551dcf0b5193494b8f57a4/appcompat-1.0.2/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "8",
                         "endColumns": "13",
                         "endOffsets": "441"
+                    }
+                },
+                {
+                    "source": "/Users/Liam/.gradle/caches/transforms-2/files-2.1/4ea3791d8f68f97b1a13f6bf74777002/jetified-core-1.9/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
                     }
                 }
             ]

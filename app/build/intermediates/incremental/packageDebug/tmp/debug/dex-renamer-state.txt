@@ -1,10 +1,10 @@
-#Mon Apr 20 17:17:40 BST 2020
+#Mon Apr 20 21:52:38 IST 2020
 path.2=classes2.dex
 path.1=classes.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=C\:\\Users\\alanm\\Desktop\\FRIGO\\project-frigo\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes2.dex
-base.1=C\:\\Users\\alanm\\Desktop\\FRIGO\\project-frigo\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
-base.0=C\:\\Users\\alanm\\Desktop\\FRIGO\\project-frigo\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+base.2=/Users/Liam/project-frigo5/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes2.dex
+base.1=/Users/Liam/project-frigo5/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+base.0=/Users/Liam/project-frigo5/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
