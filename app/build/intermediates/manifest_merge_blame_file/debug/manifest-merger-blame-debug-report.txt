@@ -53,12 +53,12 @@
 31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 31-->[androidx.core:core:1.0.1] /Users/Liam/.gradle/caches/transforms-2/files-2.1/f549af2d0a5ee6e5270d4a3ed1f8c305/core-1.0.1/AndroidManifest.xml:22:18-86
 32        android:debuggable="true"
-33        android:icon="@mipmap/ic_launcher"
-33-->/Users/Liam/project-frigo5/app/src/main/AndroidManifest.xml:15:9-43
+33        android:icon="@drawable/frigocompletelogo"
+33-->/Users/Liam/project-frigo5/app/src/main/AndroidManifest.xml:15:9-51
 34        android:label="@string/app_name"
 34-->/Users/Liam/project-frigo5/app/src/main/AndroidManifest.xml:16:9-41
-35        android:roundIcon="@mipmap/ic_launcher_round"
-35-->/Users/Liam/project-frigo5/app/src/main/AndroidManifest.xml:17:9-54
+35        android:roundIcon="@drawable/frigocompletelogo"
+35-->/Users/Liam/project-frigo5/app/src/main/AndroidManifest.xml:17:9-56
 36        android:supportsRtl="true"
 36-->/Users/Liam/project-frigo5/app/src/main/AndroidManifest.xml:18:9-35
 37        android:testOnly="true"

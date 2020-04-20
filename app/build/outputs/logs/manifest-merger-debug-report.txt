@@ -143,9 +143,9 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Liam
 	android:label
 		ADDED from /Users/Liam/project-frigo5/app/src/main/AndroidManifest.xml:16:9-41
 	android:roundIcon
-		ADDED from /Users/Liam/project-frigo5/app/src/main/AndroidManifest.xml:17:9-54
+		ADDED from /Users/Liam/project-frigo5/app/src/main/AndroidManifest.xml:17:9-56
 	android:icon
-		ADDED from /Users/Liam/project-frigo5/app/src/main/AndroidManifest.xml:15:9-43
+		ADDED from /Users/Liam/project-frigo5/app/src/main/AndroidManifest.xml:15:9-51
 	android:allowBackup
 		ADDED from /Users/Liam/project-frigo5/app/src/main/AndroidManifest.xml:14:9-35
 	android:theme
