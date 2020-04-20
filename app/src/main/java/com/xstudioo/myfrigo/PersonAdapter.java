@@ -44,7 +44,7 @@ public class PersonAdapter extends RecyclerView.Adapter<PersonAdapter.ViewHolder
             super(v);
             layout = v;
             personNameTxtV = (TextView) v.findViewById(R.id.name);
-            personAgeTxtV = (TextView) v.findViewById(R.id.age);
+            personAgeTxtV = (TextView) v.findViewById(R.id.Quantity);
             personOccupationTxtV = (TextView) v.findViewById(R.id.occupation);
             personImageImgV = (ImageView) v.findViewById(R.id.image);
 
@@ -91,9 +91,9 @@ public class PersonAdapter extends RecyclerView.Adapter<PersonAdapter.ViewHolder
         // - replace the contents of the view with that element
 
         final Person person = mPeopleList.get(position);
-        holder.personNameTxtV.setText("Name: " + person.getName());
-        holder.personAgeTxtV.setText("Age: " + person.getAge());
-        holder.personOccupationTxtV.setText("Occupation: " + person.getOccupation());
+        holder.personNameTxtV.setText("Item Name: " + person.getName());
+        holder.personAgeTxtV.setText("Quantity: " + person.getAge());
+        holder.personOccupationTxtV.setText("Expiry date: " + person.getOccupation());
         Picasso.with(mContext).load(person.getImage()).placeholder(R.mipmap.ic_launcher).into(holder.personImageImgV);
 
         //listen to single view layout click

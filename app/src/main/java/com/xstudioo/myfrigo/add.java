@@ -88,9 +88,17 @@ public class add extends AppCompatActivity {
         switch (item.getItemId()) {
             case R.id.addMenu:
                 goToAddUserActivity();
+
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
+            case R.id.home:
+                goToMainActivity();
+                return true;
+
+
+
+
         }
     }
 
@@ -98,6 +106,12 @@ public class add extends AppCompatActivity {
         Intent intent = new Intent(add.this, AddRecordActivity.class);
         startActivity(intent);
     }
+
+    private void goToMainActivity(){
+        Intent intent = new Intent(add.this, MainActivity.class);
+        startActivity(intent);
+    }
+
 
     @Override
     protected void onResume() {

@@ -13,7 +13,7 @@
         android:id="@+id/title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Add new user"
+        android:text="Add new item"
         android:textAlignment="center" />
 
     <EditText
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:hint="Name" />
+        android:hint="Item name" />
 
     <EditText
         android:id="@+id/userAge"
@@ -30,15 +30,15 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="number"
-        android:hint="Age" />
+        android:hint="Quantity" />
 
     <EditText
         android:id="@+id/userOccupation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:inputType="textPersonName"
-        android:hint="Occupation" />
+        android:hint="Expiry date"
+        android:inputType="textPersonName" />
 
     <EditText
         android:id="@+id/userProfileImageLink"
@@ -46,12 +46,12 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textUri"
-        android:hint="Image profile url" />
+        android:hint="Item image url" />
 
     <Button
         android:id="@+id/addNewUserButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Add User"/>
+        android:text="Add Item"/>
 
 </LinearLayout>

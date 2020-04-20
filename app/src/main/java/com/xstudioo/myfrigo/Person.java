@@ -1,9 +1,5 @@
 package com.xstudioo.myfrigo;
 
-/**
- * Created by Ronsoft on 11/13/2017.
- */
-
 public class Person {
 
     private long id;

@@ -13,7 +13,7 @@
         android:id="@+id/titleUpdate"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Update user"
+        android:text="Update item"
         android:textAlignment="center" />
 
     <EditText
@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:hint="Name" />
+        android:hint="Item name" />
 
     <EditText
         android:id="@+id/userAgeUpdate"
@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="number"
-        android:hint="Age" />
+        android:hint="Quantity" />
 
     <EditText
         android:id="@+id/userOccupationUpdate"
@@ -38,7 +38,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:hint="Occupation" />
+        android:hint="Expiry date" />
 
     <EditText
         android:id="@+id/userProfileImageLinkUpdate"
@@ -46,12 +46,12 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textUri"
-        android:hint="Image profile url" />
+        android:hint="Item image url" />
 
     <Button
         android:id="@+id/updateUserButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Update User"/>
+        android:text="Update Item"/>
 
 </LinearLayout>

@@ -3,8 +3,8 @@
 
     <string-array name="filterOptions">
         <item></item>
-        <item>Name</item>
-        <item>Age</item>
-        <item>Occupation</item>
+        <item>Item Name</item>
+        <item>Quantity</item>
+        <item>Expiry date</item>
     </string-array>
 </resources>
