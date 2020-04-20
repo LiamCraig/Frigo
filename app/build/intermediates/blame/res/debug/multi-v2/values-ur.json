@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\alanm\\Desktop\\fr\\project-frigo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
+            "outputFile": "C:\\Users\\alanm\\Desktop\\FRIGO\\project-frigo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ur\\values-ur.xml",
             "map": [
                 {
                     "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\52568746c2a800e6e86b4027b9814deb\\jetified-play-services-base-16.0.1\\res\\values-ur\\values.xml",

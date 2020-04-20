@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\alanm\\Desktop\\fr\\project-frigo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
+            "outputFile": "C:\\Users\\alanm\\Desktop\\FRIGO\\project-frigo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rIN\\values-en-rIN.xml",
             "map": [
                 {
                     "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\4bb9740b9abcde0416a019c3e52780d1\\core-1.0.1\\res\\values-en-rIN\\values-en-rIN.xml",

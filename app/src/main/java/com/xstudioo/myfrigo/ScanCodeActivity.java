@@ -32,7 +32,7 @@ public class ScanCodeActivity extends AppCompatActivity implements ZXingScannerV
 
 
 
-        MainActivity.resultTextView.setText(result.getText());
+        scan.resultTextView.setText(result.getText());
         onBackPressed();
 
     }

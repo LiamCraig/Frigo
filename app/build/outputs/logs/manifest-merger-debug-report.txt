@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:2:1-58:12
 MERGED from [com.karumi:dexter:6.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\ba664ece2dbb872529477b423ccf8f41\jetified-dexter-6.0.0\AndroidManifest.xml:17:1-32:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\f3a11c61ff9d52c1fbb36a59653fea56\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\a4976663e36c9e0a790ddccb49a26ec4\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
@@ -53,59 +53,59 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\alanm\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\40421f27e303e2c021c5945915d484a2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\116109b17313968c9f1ebcff6a623fe6\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\78c5e44800f620ade6e2b1a899e6b290\jetified-protolite-well-known-types-16.0.0\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:2:1-55:12
-INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:2:1-58:12
 	package
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:3:5-35
-		INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:2:1-55:12
-		INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:2:1-55:12
-		INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:5:5-67
 MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\8374219a9f6984551ad36a7790812af2\jetified-firebase-firestore-17.1.2\AndroidManifest.xml:11:5-67
 MERGED from [com.google.firebase:firebase-firestore:17.1.2] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\8374219a9f6984551ad36a7790812af2\jetified-firebase-firestore-17.1.2\AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:5:22-64
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:6:5-64
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:6:5-64
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:6:22-62
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:6:22-62
 uses-feature#android.hardware.camera
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:7:5-84
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:7:5-84
 	android:required
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:7:58-82
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:7:58-82
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:7:19-57
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:7:19-57
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:8:5-94
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:8:5-94
 	android:required
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:8:68-92
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:8:68-92
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:8:19-67
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:8:19-67
 uses-feature#android.hardware.camera.front
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:9:5-90
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:9:5-90
 	android:required
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:9:64-88
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:9:64-88
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:9:19-63
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:9:19-63
 uses-feature#android.hardware.camera.front.autofocus
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:10:5-100
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:10:5-100
 	android:required
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:10:74-98
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:10:74-98
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:10:19-73
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:10:19-73
 application
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:13:5-53:19
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:13:5-56:19
 MERGED from [com.karumi:dexter:6.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\ba664ece2dbb872529477b423ccf8f41\jetified-dexter-6.0.0\AndroidManifest.xml:26:5-30:19
 MERGED from [com.karumi:dexter:6.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\ba664ece2dbb872529477b423ccf8f41\jetified-dexter-6.0.0\AndroidManifest.xml:26:5-30:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\f3a11c61ff9d52c1fbb36a59653fea56\material-1.0.0\AndroidManifest.xml:22:5-20
@@ -139,93 +139,109 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\al
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\4bb9740b9abcde0416a019c3e52780d1\core-1.0.1\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:18:9-35
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:16:9-41
 	android:roundIcon
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:17:9-54
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:17:9-54
 	android:icon
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:15:9-43
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:15:9-43
 	android:allowBackup
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:14:9-35
 	android:theme
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:19:9-40
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.xstudioo.myfrigo.info
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:20:19-39
+activity#com.xstudioo.myfrigo.AddRecordActivity
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:21:9-23:49
+	android:parentActivityName
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:23:13-46
+	android:name
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:22:13-46
+activity#com.xstudioo.myfrigo.UpdateRecordActivity
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:24:9-25:48
+	android:parentActivityName
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:25:13-46
+	android:name
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:24:19-55
+activity#com.xstudioo.myfrigo.scan
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:26:9-42
+	android:name
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:26:19-39
+activity#com.xstudioo.myfrigo.add
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:27:9-41
+	android:name
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:27:19-38
+activity#com.xstudioo.myfrigo.idea
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:28:9-42
+	android:name
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:28:19-39
 activity#com.xstudioo.myfrigo.ScanCodeActivity
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:21:9-22:58
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:29:9-30:58
 	android:theme
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:22:13-56
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:30:13-56
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:21:19-71
-activity#com.xstudioo.myfrigo.ProductListAdapter
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:24:9-25:58
-	android:theme
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:25:13-56
-	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:24:19-73
-activity#com.xstudioo.myfrigo.Products
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:27:9-28:58
-	android:theme
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:28:13-56
-	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:27:19-63
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:29:19-71
 activity#com.xstudioo.myfrigo.SettingsActivity
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:30:9-31:58
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:33:9-34:58
 	android:theme
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:31:13-56
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:34:13-56
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:30:19-71
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:33:19-71
 activity#com.xstudioo.myfrigo.RecipeActivity
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:32:9-33:58
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:35:9-36:58
 	android:theme
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:33:13-56
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:36:13-56
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:32:19-69
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:35:19-69
 activity#com.xstudioo.myfrigo.RegisterActivity
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:34:9-35:58
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:37:9-38:58
 	android:theme
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:35:13-56
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:38:13-56
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:34:19-51
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:37:19-51
 activity#com.xstudioo.myfrigo.Splash
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:36:9-42:20
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:39:9-45:20
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:36:19-61
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:39:19-61
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:37:13-41:29
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:40:13-44:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:38:17-69
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:41:17-69
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:38:25-66
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:41:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:40:17-77
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:43:17-77
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:40:27-74
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:43:27-74
 activity#com.xstudioo.myfrigo.LoginActivity
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:43:9-44:58
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:46:9-47:58
 	android:theme
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:44:13-56
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:47:13-56
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:43:19-68
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:46:19-68
 activity#com.xstudioo.myfrigo.Details
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:45:9-49:20
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:48:9-52:20
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:45:19-62
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:48:19-62
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:46:13-48:69
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:49:13-51:69
 	android:value
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:48:17-66
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:51:17-66
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:47:17-63
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:50:17-63
 activity#com.xstudioo.myfrigo.MainActivity
-ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:50:9-52:59
+ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:53:9-55:59
 	android:theme
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:52:13-56
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:55:13-56
 	android:name
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml:51:13-61
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml:54:13-61
 uses-sdk
-INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
 MERGED from [com.karumi:dexter:6.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\ba664ece2dbb872529477b423ccf8f41\jetified-dexter-6.0.0\AndroidManifest.xml:22:5-24:41
 MERGED from [com.karumi:dexter:6.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\ba664ece2dbb872529477b423ccf8f41\jetified-dexter-6.0.0\AndroidManifest.xml:22:5-24:41
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\f3a11c61ff9d52c1fbb36a59653fea56\material-1.0.0\AndroidManifest.xml:20:5-44
@@ -324,16 +340,16 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\alanm\.gradle\cache
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\116109b17313968c9f1ebcff6a623fe6\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\78c5e44800f620ade6e2b1a899e6b290\jetified-protolite-well-known-types-16.0.0\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:16.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\78c5e44800f620ade6e2b1a899e6b290\jetified-protolite-well-known-types-16.0.0\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\alanm\Desktop\fr\project-frigo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\alanm\Desktop\FRIGO\project-frigo\app\src\main\AndroidManifest.xml
 activity#com.karumi.dexter.DexterActivity
 ADDED from [com.karumi:dexter:6.0.0] C:\Users\alanm\.gradle\caches\transforms-2\files-2.1\ba664ece2dbb872529477b423ccf8f41\jetified-dexter-6.0.0\AndroidManifest.xml:27:9-29:72
 	android:theme

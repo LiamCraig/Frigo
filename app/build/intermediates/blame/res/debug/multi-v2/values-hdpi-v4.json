@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\alanm\\Desktop\\fr\\project-frigo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "C:\\Users\\alanm\\Desktop\\FRIGO\\project-frigo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\alanm\\.gradle\\caches\\transforms-2\\files-2.1\\03ffb47a336fd19f1a55ab74d1874bae\\jetified-core-1.9\\res\\values-hdpi-v4\\values-hdpi-v4.xml",

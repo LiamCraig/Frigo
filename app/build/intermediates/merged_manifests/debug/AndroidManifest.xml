@@ -36,14 +36,18 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
+        <activity android:name="com.xstudioo.myfrigo.info" />
+        <activity
+            android:name="com.xstudioo.myfrigo.AddRecordActivity"
+            android:parentActivityName="com.xstudioo.myfrigo.add" />
+        <activity
+            android:name="com.xstudioo.myfrigo.UpdateRecordActivity"
+            android:parentActivityName="com.xstudioo.myfrigo.add" />
+        <activity android:name="com.xstudioo.myfrigo.scan" />
+        <activity android:name="com.xstudioo.myfrigo.add" />
+        <activity android:name="com.xstudioo.myfrigo.idea" />
         <activity
             android:name="com.xstudioo.myfrigo.ScanCodeActivity"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name="com.xstudioo.myfrigo.ProductListAdapter"
-            android:theme="@style/AppTheme.NoActionBar" />
-        <activity
-            android:name="com.xstudioo.myfrigo.Products"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name="com.xstudioo.myfrigo.SettingsActivity"

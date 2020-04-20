@@ -17,15 +17,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
+        <activity android:name=".info"></activity>
+        <activity
+            android:name=".AddRecordActivity"
+            android:parentActivityName=".add" />
+        <activity android:name=".UpdateRecordActivity"
+            android:parentActivityName=".add"/>
+        <activity android:name=".scan" />
+        <activity android:name=".add" />
+        <activity android:name=".idea" />
         <activity android:name="com.xstudioo.myfrigo.ScanCodeActivity"
             android:theme="@style/AppTheme.NoActionBar"/>
 
-        <activity android:name="com.xstudioo.myfrigo.ProductListAdapter"
-            android:theme="@style/AppTheme.NoActionBar"/>
-
-        <activity android:name="com.xstudioo.myfrigo.Products"
-            android:theme="@style/AppTheme.NoActionBar"/>
 
         <activity android:name="com.xstudioo.myfrigo.SettingsActivity"
             android:theme="@style/AppTheme.NoActionBar"/>
