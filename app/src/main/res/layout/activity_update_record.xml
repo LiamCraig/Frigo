@@ -17,7 +17,7 @@
         android:textAlignment="center" />
 
     <EditText
-        android:id="@+id/userBarcode"
+        android:id="@+id/barcode_id"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -61,5 +61,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Update Item"/>
+
+    <Button
+        android:id="@+id/scan_item_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Scan" />
 
 </LinearLayout>
